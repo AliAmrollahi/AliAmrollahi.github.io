@@ -1,1 +1,38 @@
+div
+{
+	background-image : url('g.png');
+	background-color : gray
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+	background-size: cover;
+	height: 100px;
+	margin : 0px ;
+	padding-top : 0px;
+	padding-bottom : 0px;
+	padding-left : 0px;
+	padding-right : 0px;
+#d1
+{
+	font-size:24pt;width:1525px;height:1500px;background-color:rgb(00,100,200);
+}
 
+#d2
+{
+	font-size:24pt;width:1525px;height:100px;background-color:rgb(00,200,000);
+}
+
+#d3
+{
+	font-size:24pt;width:1525px;height:100px;background-color:rgb(255,165,000);
+}
+
+a:link
+{
+	color : blue;
+}
+
+a:visited
+{
+	color : darkblue;
+}
